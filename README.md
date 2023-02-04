@@ -1,6 +1,6 @@
 # Search Coach
 
-#### By Kirsten Opstad, Bodie Wood, Henry Sullivan, and Anton Chumachenko
+#### By Anton Ch, Kirsten Opstad, Bodie Wood and Henry Sullivan
 
 #### A web app for tracking job application progress.
 
@@ -139,7 +139,7 @@ $ dotnet restore
 
 MIT License
 
-Copyright (c) 2023 Kirsten Opstad, Bodie Wood, Henry Sullivan, and Anton Chumachenko
+Copyright (c) 2023 Anton Ch, Kirsten Opstad, Bodie Wood and Henry Sullivan 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
